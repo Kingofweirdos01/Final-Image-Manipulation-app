@@ -1,0 +1,9 @@
+C:\Users\SRIRAM\Desktop\ImageManipulation-p5\bin\Debug\$safeprojectname$.exe.config
+C:\Users\SRIRAM\Desktop\ImageManipulation-p5\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\SRIRAM\Desktop\ImageManipulation-p5\obj\Debug\$safeprojectname$.Properties.Resources.resources
+C:\Users\SRIRAM\Desktop\ImageManipulation-p5\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\SRIRAM\Desktop\ImageManipulation-p5\obj\Debug\ImageManipulation.Form1.resources
+C:\Users\SRIRAM\Desktop\ImageManipulation-p5\bin\Debug\$safeprojectname$.exe
+C:\Users\SRIRAM\Desktop\ImageManipulation-p5\bin\Debug\$safeprojectname$.pdb
+C:\Users\SRIRAM\Desktop\ImageManipulation-p5\obj\Debug\$safeprojectname$.exe
+C:\Users\SRIRAM\Desktop\ImageManipulation-p5\obj\Debug\$safeprojectname$.pdb
